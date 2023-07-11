@@ -1,0 +1,8 @@
+D:\day 2\ConAppone\ConAppone\bin\Debug\ConAppone.exe.config
+D:\day 2\ConAppone\ConAppone\bin\Debug\ConAppone.exe
+D:\day 2\ConAppone\ConAppone\bin\Debug\ConAppone.pdb
+D:\day 2\ConAppone\ConAppone\obj\Debug\ConAppone.csproj.AssemblyReference.cache
+D:\day 2\ConAppone\ConAppone\obj\Debug\ConAppone.csproj.SuggestedBindingRedirects.cache
+D:\day 2\ConAppone\ConAppone\obj\Debug\ConAppone.csproj.CoreCompileInputs.cache
+D:\day 2\ConAppone\ConAppone\obj\Debug\ConAppone.exe
+D:\day 2\ConAppone\ConAppone\obj\Debug\ConAppone.pdb
